@@ -2,7 +2,7 @@
 
 My name is Lautaro Agustín Correa, I'm 22 years old and I am currently studying at the National Technological University *(UTN)*, the university technical degree in programming *(TUP)*.
 
-I'm a graduate of the school "Corazón de María", I studied Systems Engineering for 2 years, I took some programming courses and I have a Diploma in New Technologies. Currently I'm not working or looking for, my goal is to finish the Technician in time (2024). My hobbies are video games (like Valorant, League of Legends, FIFA,etc) and everything related to technology.
+I'm a graduate of the school "Corazón de María", I studied Systems Engineering for 2 years, I took some programming courses and I have a Diploma in New Technologies. Currently I'm not working or looking for, my goal is to finish the Technician in time (2024). My hobbies are video games and everything related to technology.
 I have some experiences like a microenterprise, socio-community project, partner for a day. (Junior Achievement)
 
 ## Studies:
