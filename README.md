@@ -11,7 +11,7 @@ I have some experiences like a microenterprise, socio-community project, partner
 * 2012-2018| Bachelor in economics and administration.
 * 2019-2020| (Incomplete) Information systems engineering.
 * 2020-2021| Diploma in New Technologies.
-* 2022-2023| University technical degree in programming.
+* 2022-2024| University technical degree in programming.
 
 ## Work Experience:
 
